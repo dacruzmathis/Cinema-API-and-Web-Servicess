@@ -8,4 +8,4 @@ The application provide 3 webservices for the user :
 * Displaying all cities where a film is projected
 
 Master 1 project made for the API & Web Services cursus at Efrei Paris.  
-Made by Da Cruz Mathis, Sivananthan Sarankan and Sebastiao-Esteves Kevin.  
+Made with Sivananthan Sarankan and Sebastiao-Esteves Kevin.  
